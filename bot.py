@@ -9,7 +9,7 @@ from aiogram.filters import Command, CommandStart
 from aiogram.types import Message
 
 API_TOKEN = os.getenv("BOT_TOKEN")
-ADMIN_IDS = [7000000000]  # buni o'zingizning Telegram ID'ingizga almashtiring
+ADMIN_IDS = [8377218647]  # buni o'zingizning Telegram ID'ingizga almashtiring
 DB_PATH = "movies.db"
 PORT = int(os.getenv("PORT", 10000))
 
